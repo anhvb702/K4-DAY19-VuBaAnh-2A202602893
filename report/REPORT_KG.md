@@ -1,6 +1,6 @@
 # Báo cáo Day 19 — Flat RAG vs GraphRAG
 
-**Họ tên:** Vũ Bá Anh  **MSSV:** 2A202602893  **Ngày hoàn thiện:** 05/10/2026 (Asia/Saigon)
+**Họ tên:** Vũ Bá Anh  **MSSV:** 2A202602893  **Ngày hoàn thiện:** 05/10/2026 
 
 Ontology dùng phương án gợi ý, gồm 7 label và 7 quan hệ; không đăng ký bonus. Benchmark chạy một lần với chat `openai:gpt-4o-mini`, embedding `openai:text-embedding-3-small`, `top_k=3`, `chunk_size=800`, 176 chunks. File kết quả ghi graph 204 node/381 cạnh.
 
